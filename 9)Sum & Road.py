@@ -16,7 +16,7 @@ sonuc=toplamFiyat/urunAdedi
 
 sonuc=round(5.3)
 sonuc=round(5.3)
-sonuc=round(5.8)
+sonuc=round(5.8lk4)
 
 sonuc=round(1.321231,2)
 
