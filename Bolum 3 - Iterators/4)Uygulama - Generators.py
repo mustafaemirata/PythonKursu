@@ -23,4 +23,4 @@ def fib_list(max):
 
     return sayilar
 
-print(fib_list(25440))
+print(fib_list(4))
