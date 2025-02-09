@@ -1,10 +1,1 @@
-{
-  "1": {
-    "title": "Casper",
-    "price": 80000
-  },
-  "2": {
-    "title": "Casper",
-    "price": 40000
-  }
-}
+{"1": {"id": 1, "tite": "Samsung S26", "price": 87000}, "2": {"id": 2, "tite": "Samsung S27", "price": 88000}, "3": {"id": 3, "tite": "Samsung S28", "price": 89000}}
