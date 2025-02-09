@@ -1,11 +1,17 @@
-{
-  "id": 2,
-  "title": "Mackbook Pro",
-  "price": 90000,
-  "rating": "4.5",
-  "category": "Bilgisayar",
-  "colors": [
-    "Red",
-    "Blue"
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Macbook Pro",
+    "price": 80000
+  },
+  {
+    "id": 2,
+    "title": "Macbook Air",
+    "price": 70000
+  },
+  {
+    "id": 3,
+    "title": "Samsung S23",
+    "price": 40000
+  }
+]
