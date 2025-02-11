@@ -30,3 +30,4 @@ while True:
         message = input("mesaj: ")
         client_socket.send(message.encode(FORMAT))
 server.close()
+#Bitti
